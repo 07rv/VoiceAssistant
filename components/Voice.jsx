@@ -1,81 +1,22 @@
 const Voice = () => {
   return (
     <>
-      <div>
-        <div class="arc_reactor">
-          <div class="case_container">
-            <div class="e7">
-              <div class="semi_arc_3 e5_1">
-                <div class="semi_arc_3 e5_2">
-                  <div class="semi_arc_3 e5_3">
-                    <div class="semi_arc_3 e5_4"></div>
-                  </div>
-                </div>
-              </div>
-              <div class="core2"></div>
-            </div>
-            <ul class="marks">
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-            </ul>
+      <div class="fullpage-wrapper">
+        <div class="reactor-container">
+          <div class="reactor-container-inner circle abs-center"></div>
+          <div class="tunnel circle abs-center"></div>
+          <div class="core-wrapper circle abs-center"></div>
+          <div class="core-outer circle abs-center"></div>
+          <div class="core-inner circle abs-center"></div>
+          <div class="coil-container">
+            <div class="coil coil-1"></div>
+            <div class="coil coil-2"></div>
+            <div class="coil coil-3"></div>
+            <div class="coil coil-4"></div>
+            <div class="coil coil-5"></div>
+            <div class="coil coil-6"></div>
+            <div class="coil coil-7"></div>
+            <div class="coil coil-8"></div>
           </div>
         </div>
       </div>
