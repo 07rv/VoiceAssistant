@@ -67,6 +67,9 @@ body {
   position: relative;
   width: 100%;
   height: 100%;
+}
+
+.coil-container-animation {
   animation: 3s infinite linear reactor-anim;
 }
 .coil {
